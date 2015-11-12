@@ -1,0 +1,6 @@
+*.classpath
+solrcloud_discovery/.project
+*.prefs
+*.class
+solrcloud_discovery/target/solrCollectionLocator-1.0-SNAPSHOT.jar
+solrcloud_discovery/target/classes/log4j.properties
