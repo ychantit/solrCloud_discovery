@@ -4,3 +4,4 @@ solrcloud_discovery/.project
 *.class
 solrcloud_discovery/target/solrCollectionLocator-1.0-SNAPSHOT.jar
 solrcloud_discovery/target/classes/log4j.properties
+solrcloud_discovery/target/maven-archiver/pom.properties
